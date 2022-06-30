@@ -11,5 +11,6 @@
   "function-runtime": "dotnet6",
   "function-memory-size": 256,
   "function-timeout": 30,
-  "function-handler": "Section2::Section2.Function::FunctionHandler"
+  "function-handler": "Section2::Section2.Function::FunctionHandler",
+  "function-name": "MyFirstLambda"
 }
